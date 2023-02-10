@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @M1994Kh
-- 👀 I’m interested in work as a freelancer especially in startup teams.
-- 🌱 I’m currently learning Golang and python.
-- 💞️ I’m looking to collaborate on web developing and many exciting jobs like data mining and ...
+- Hi, I’m @M1994Kh
+- Python Developer | Aspiring Data Scientist | Seeking Opportunities to Leverage Analytics and Machine Learning Skills
+- Dynamic and motivated Python developer with a passion for data analytics. Holding several certifications in Python programming, I have found my calling in working with data. I am currently self-employed and actively engaged in exploring financial data from various sources and visualizing it in unique ways to find the best models for practical use. I am eager to expand my knowledge and skills in this field and welcome any opportunities for collaboration and teamwork.
 - 📫 How to reach me?
--  Email me khorasani.mehran@gmail.com
-
-<!---
-M1994Kh/M1994Kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  send me emails 
+-  khorasani.mehran@gmail.com
+-  or find me on LinkedIn
+-  https://www.linkedin.com/in/mehran-khorasani-a7611271/
